@@ -22,6 +22,8 @@ public class NormalCal extends Calcu {
 	public void go() {
 		// TODO Auto-generated method stub
 		System.out.println("Need to go");
+		System.out.println("Need to gonow");
+
 
 		
 	}

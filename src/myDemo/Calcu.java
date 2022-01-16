@@ -15,4 +15,8 @@ public abstract class Calcu {
 	}
 	
 	public abstract void Slow();
+	public abstract void go();
+
+	public abstract void stop();
+
 }

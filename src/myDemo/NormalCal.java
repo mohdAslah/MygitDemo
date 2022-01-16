@@ -17,5 +17,23 @@ public class NormalCal extends Calcu {
 		System.out.println("Need to Slow");
 	}
 
+
+	@Override
+	public void go() {
+		// TODO Auto-generated method stub
+		System.out.println("Need to go");
+
+		
+	}
+
+
+	@Override
+	public void stop() {
+		// TODO Auto-generated method stub
+		System.out.println("Need to Stop");
+
+		
+	}
+
 	
 }

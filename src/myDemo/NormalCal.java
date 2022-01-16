@@ -8,6 +8,9 @@ public class NormalCal extends Calcu {
 		
 		a.Run();
 		a.Slow();
+		a.Sleep();
+		a.go();
+		a.stop();
 
 		
 	}

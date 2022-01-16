@@ -13,6 +13,12 @@ public abstract class Calcu {
 		
 		System.out.println("Need to Run");
 	}
+    public void Sleep()
+	
+	{
+		
+		System.out.println("Need to sleep");
+	}
 	
 	public abstract void Slow();
 	public abstract void go();

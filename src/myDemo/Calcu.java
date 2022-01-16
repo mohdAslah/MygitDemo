@@ -18,5 +18,7 @@ public abstract class Calcu {
 	public abstract void go();
 
 	public abstract void stop();
+	public abstract void run();
+
 
 }
